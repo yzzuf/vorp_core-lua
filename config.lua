@@ -22,6 +22,7 @@ Config = {
     initMoney              = 200.0,        -- Initial money amount for new players.
     initRol                = 0.0,          -- Initial role-play currency amount for new players.
     initInvCapacity        = 200,          -- Initial number of character slots for new players. for old you must change in the database
+    initWeightCapacity     = 200,          -- Initial weight capacity for new players. For old players, you must change this value in the database.
     initXp                 = 0,            -- Initial experience points for new players.
     initJob                = "unemployed", -- Default job for new players. Recommended not to change.
     initJobGrade           = 0,            -- Default job grade for new players. Recommended not to change.
